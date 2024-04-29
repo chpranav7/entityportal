@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/entityportal/static/css/main.3786c1c8.css",
+    "main.js": "/entityportal/static/js/main.ede90012.js",
+    "static/media/logos.png": "/entityportal/static/media/logos.269f3ed6a70305de1898.png",
+    "static/media/Forgot password.svg": "/entityportal/static/media/Forgot password.7e569b15566bd548901c9d0fa17ca2c8.svg",
+    "static/media/signup.svg": "/entityportal/static/media/signup.73ea968c9a927edf83e32a3e2f4010f7.svg",
+    "index.html": "/entityportal/index.html",
+    "static/media/power-off-solid.svg": "/entityportal/static/media/power-off-solid.64f21014c828ee1ee201f3a796f884df.svg",
+    "static/media/inbox.svg": "/entityportal/static/media/inbox.b90fdd1a6055f6e0dfec28fa431e3aa7.svg",
+    "main.3786c1c8.css.map": "/entityportal/static/css/main.3786c1c8.css.map",
+    "main.ede90012.js.map": "/entityportal/static/js/main.ede90012.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3786c1c8.css",
+    "static/js/main.ede90012.js"
+  ]
+}
